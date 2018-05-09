@@ -73,6 +73,9 @@ https://raw.githubusercontent.com/protegeproject/owlviz/master/update-info/prote
 // Pellet
 https://raw.githubusercontent.com/Complexible/pellet/master/protege/plugin/plugins.repository
 
+// Racer
+https://raw.githubusercontent.com/ha-mo-we/Racer/master/racer-owlapi/trunk/protege/www/update.properties
+
 // Sadi Plugin
 //http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
